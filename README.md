@@ -2,5 +2,7 @@
 
 ## Расширения
 
-* `eamodio.gitlens`
-* `mhutchie.git-graph`
+- `eamodio.gitlens`
+- `mhutchie.git-graph`
+- `yzhang.markdown-all-in-one`
+- `davidanson.vscode-markdownlint`
